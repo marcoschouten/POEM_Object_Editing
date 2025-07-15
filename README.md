@@ -29,20 +29,11 @@ source .venv/bin/activate
 - **QWEN-Math**: `transformers>=4.37.0`
 
 ## ⚙️ Usage
-### Run Jupyter Notebook
-```bash
-python -m notebook --ip 0.0.0.0 --no-browser --port=8080 --allow-root
-```
 
 ### Run Pipeline
 ```bash
 python src/main.py --in_dir input_debug --out_dir output_debug --edit "grayscale"
 ```
-
-## 📐 Notation
-- **Image Coordinates**: Square images have the top-left at `[0, 0]` and bottom-right at `[1, 1]`.
-- **Box Format**: `[Top-left x, Top-left y, Width, Height]`
-
 
 
 ![masks](./docs/fig_results.png)
