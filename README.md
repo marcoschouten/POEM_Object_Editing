@@ -51,12 +51,6 @@ models. We test our edit instructions using translation, scaling, appearance cha
 and a combination of them to showcase the precision of our pipeline.
 
 
-## 📚 References
-
-[1] Epstein, Dave, et al. "Diffusion self-guidance for controllable image generation." Advances in Neural Information Processing Systems 36 (2023): 16222-16239.
-
-[2] Wu, Tsung-Han, et al. "Self-correcting llm-controlled diffusion models." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024.
-
 
 # Citation
 Please cite the following paper when using the code or data:
