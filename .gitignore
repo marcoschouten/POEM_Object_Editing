@@ -8,11 +8,3 @@ error/
 *.out
 *.err
 
-
-# Ignore benchmark directories
-_legacy/
-experiments_scia2025/
-pose_supplementary/onur_benchmark/
-pose_supplementary/instruct-pix2pix/onur_benchmark_ip2p
-pose_supplementary/ledits_plusplus/onur_benchmark_leditspp
-pose_supplementary/turbo_edit/onur_benchmark_turboedit

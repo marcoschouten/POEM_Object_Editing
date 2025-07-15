@@ -1,5 +1,0 @@
-Bounding Box (normalized):
-xmin=0.490, ymin=0.240, xmax=1.000, ymax=0.760
-
-Bounding Box (SLD format):
-[0.490, 0.240, 0.510, 0.520]
