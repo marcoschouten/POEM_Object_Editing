@@ -44,7 +44,7 @@ and a combination of them to showcase the precision of our pipeline.
 
 
 
-# Citation
+## 📚 Citation
 Please cite the following paper when using the code or data:
 ```
 @inproceedings{schouten2025poem,
