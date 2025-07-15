@@ -1,5 +1,7 @@
 # 📜 POEM: Precise Object-level Editing via MLLM control
 
+Please refer to our paper for details: "[📜 POEM: Precise Object-level Editing via MLLM control](https://poem.compute.dtu.dk/)", SCIA 2025.
+
 This project aims to allow image editing via precise instructions (e.g. move cat to the left by 12.5 px). Our method synthesizes a new image according to the editing instruction. We do this using off-the-shelf diffusion models and MLLMs with no training or fine-tuning.
 
 <p>
@@ -55,6 +57,17 @@ and a combination of them to showcase the precision of our pipeline.
 
 [2] Wu, Tsung-Han, et al. "Self-correcting llm-controlled diffusion models." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024.
 
+
+# Citation
+Please cite the following paper when using the code or data:
+```
+@inproceedings{schouten2025poem,
+    title={POEM: Precise Object-level Editing via MLLM control},
+    author={Schouten, Marco and Kaya, Mehmet Onurcan and Belongie, Serge and Papadopoulos, Dim P.},
+    booktitle={Scandinavian Conference on Image Analysis},
+    year={2025},
+}
+```
 
 
 
