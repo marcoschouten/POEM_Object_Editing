@@ -35,6 +35,7 @@ source .venv/bin/activate
 python src/main.py --in_dir input_debug --out_dir output_debug --edit "grayscale"
 ```
 
+## 📊 Results
 
 ![masks](./docs/fig_results.png)
 We compare POEM to state-of-the-art image editing
